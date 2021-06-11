@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623252282 source:d:\code blocks\projects\graphics project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<fstream>
+
